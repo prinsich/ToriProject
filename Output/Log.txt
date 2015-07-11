@@ -1,0 +1,3825 @@
+
+sábado 11 de julio de 2015 12:24:38
+Connected to 127.0.0.1 in port 2004
+sábado 11 de julio de 2015 12:25:08
+Connected to 127.0.0.1 in port 2004
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:10.0  Posicion: ( 538, 288)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 13x6
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 9
+Densidad:0.2811716585301491
+Dimensiones (hxw): 143x53
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 4
+Densidad:0.5982905982905983
+Dimensiones (hxw): 39x27
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 13x6
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 15.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=544,y=294]
+Release Point: java.awt.Point[x=-405,y=606]
+Release Angle: 24.932912916015848
+It takes 17990 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 2
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 504, 311)
+chancho: Diametro:9.0  Posicion: ( 584, 311)
+chancho: Diametro:8.0  Posicion: ( 544, 312)
+chancho: Diametro:8.0  Posicion: ( 648, 289)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.4
+Dimensiones (hxw): 30x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.4
+Dimensiones (hxw): 30x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.4
+Dimensiones (hxw): 30x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.2979559748427673
+Dimensiones (hxw): 53x24
+
+SE HAN ENCONTRADO 4 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+ # Chanchos Libres: 4.
+---------Bloques-------------------------
+ # Total: 8.
+---------Construcciones------------------
+ # Total: 4. (2 o más bloques)
+ # Sin chanchos dentro: 4.
+---------Tipos de Construcciones---------
+ # House of Cards: 4
+---------Pájaros-------------------------
+ # Total: 5.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=510,y=317]
+Release Point: java.awt.Point[x=-345,y=489]
+Release Angle: 17.46604546602565
+It takes 15509 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 648, 289)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.6467931345980127
+Dimensiones (hxw): 27x41
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.2979559748427673
+Dimensiones (hxw): 53x24
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 7.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # House of Cards: 2
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=653,y=294]
+Release Point: java.awt.Point[x=-288,y=615]
+Release Angle: 31.167172646102266
+It takes 18004 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 3
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 605, 373)
+chancho: Diametro:8.0  Posicion: ( 620, 373)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 14x14
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 6
+Densidad:0.4062222222222222
+Dimensiones (hxw): 50x45
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+ # Chanchos Libres: 2.
+---------Bloques-------------------------
+ # Total: 6.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 6.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=527,y=338]
+Release Point: java.awt.Point[x=-349,y=545]
+Release Angle: 21.934522574633505
+It takes 15491 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 26x26
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 6
+Densidad:0.42178649237472765
+Dimensiones (hxw): 51x45
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 0.
+---------Bloques-------------------------
+ # Total: 7.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+###########################################
+=> LOADING THE LEVEL 4
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 574, 349)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 13
+Densidad:0.7153053132434576
+Dimensiones (hxw): 78x97
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 13.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=576,y=324]
+Release Point: java.awt.Point[x=-376,y=571]
+Release Angle: 22.797757382856737
+It takes 15591 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 574, 349)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 9
+Densidad:0.5981351981351981
+Dimensiones (hxw): 55x78
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.898886827458256
+Dimensiones (hxw): 22x49
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 12.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=578,y=334]
+Release Point: java.awt.Point[x=-382,y=555]
+Release Angle: 21.216954360174146
+It takes 17875 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 5
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 585, 345)
+chancho: Diametro:14.0  Posicion: ( 590, 365)
+chancho: Diametro:9.0  Posicion: ( 587, 304)
+chancho: Diametro:8.0  Posicion: ( 592, 326)
+chancho: Diametro:8.0  Posicion: ( 594, 315)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 31
+Densidad:0.43042084844395717
+Dimensiones (hxw): 142x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 5.
+# En Construcción: 5.
+---------Bloques-------------------------
+ # Total: 30.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=596,y=274]
+Release Point: java.awt.Point[x=-269,y=676]
+Release Angle: 36.789397832970565
+It takes 15519 ms to take a shot
+
+scale factor changed to: 1.0011284218614582
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 585, 345)
+chancho: Diametro:13.0  Posicion: ( 591, 366)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 31
+Densidad:0.4227957877348751
+Dimensiones (hxw): 145x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 31.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=512,y=311]
+Release Point: java.awt.Point[x=-330,y=574]
+Release Angle: 24.810269797730506
+It takes 15532 ms to take a shot
+
+scale factor changed to: 1.0011284218614582
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:15.0  Posicion: ( 590, 364)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 31
+Densidad:0.494619153301788
+Dimensiones (hxw): 143x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 30.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=512,y=312]
+Release Point: java.awt.Point[x=-330,y=574]
+Release Angle: 24.810269797730506
+It takes 15580 ms to take a shot
+
+scale factor changed to: 1.0011284218614582
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 591, 365)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 30
+Densidad:0.9412710007304602
+Dimensiones (hxw): 74x185
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 29.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=604,y=348]
+Release Point: java.awt.Point[x=-334,y=565]
+Release Angle: 23.81947965965199
+It takes 15528 ms to take a shot
+###########################################
+=> RESTART THE LEVEL 6
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 585, 345)
+chancho: Diametro:14.0  Posicion: ( 590, 365)
+chancho: Diametro:9.0  Posicion: ( 587, 304)
+chancho: Diametro:8.0  Posicion: ( 592, 326)
+chancho: Diametro:8.0  Posicion: ( 594, 315)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 31
+Densidad:0.42110145905372354
+Dimensiones (hxw): 142x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 5.
+# En Construcción: 5.
+---------Bloques-------------------------
+ # Total: 30.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=512,y=313]
+Release Point: java.awt.Point[x=-331,y=571]
+Release Angle: 24.493936546900347
+It takes 15556 ms to take a shot
+
+scale factor changed to: 1.0011284218614582
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 591, 365)
+chancho: Diametro:13.0  Posicion: ( 593, 345)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x11
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.906832298136646
+Dimensiones (hxw): 7x23
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 28
+Densidad:0.5855511199822577
+Dimensiones (hxw): 108x167
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 30.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=512,y=330]
+Release Point: java.awt.Point[x=-344,y=540]
+Release Angle: 21.10978114288785
+It takes 15526 ms to take a shot
+
+scale factor changed to: 1.0011284218614582
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 591, 366)
+chancho: Diametro:14.0  Posicion: ( 593, 344)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x11
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 28
+Densidad:0.6442894028456848
+Dimensiones (hxw): 109x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 28.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=594,y=329]
+Release Point: java.awt.Point[x=-320,y=593]
+Release Angle: 26.970439078650898
+It takes 15496 ms to take a shot
+
+scale factor changed to: 0.9965663697639209
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 591, 366)
+chancho: Diametro:14.0  Posicion: ( 593, 344)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 27
+Densidad:0.6405635648754915
+Dimensiones (hxw): 109x168
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 26.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=595,y=329]
+Release Point: java.awt.Point[x=-312,y=609]
+Release Angle: 28.77110912444468
+It takes 15693 ms to take a shot
+###########################################
+=> RESTART THE LEVEL 6
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 585, 345)
+chancho: Diametro:14.0  Posicion: ( 590, 365)
+chancho: Diametro:9.0  Posicion: ( 587, 304)
+chancho: Diametro:8.0  Posicion: ( 592, 326)
+chancho: Diametro:8.0  Posicion: ( 594, 315)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 31
+Densidad:0.42110145905372354
+Dimensiones (hxw): 142x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 5.
+# En Construcción: 5.
+---------Bloques-------------------------
+ # Total: 30.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=512,y=313]
+Release Point: java.awt.Point[x=-330,y=572]
+Release Angle: 24.627380688889446
+sábado 11 de julio de 2015 15:01:11
+Connected to 127.0.0.1 in port 2004
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 585, 345)
+chancho: Diametro:14.0  Posicion: ( 590, 365)
+chancho: Diametro:9.0  Posicion: ( 587, 304)
+chancho: Diametro:8.0  Posicion: ( 592, 326)
+chancho: Diametro:8.0  Posicion: ( 594, 315)
+
+
+sábado 11 de julio de 2015 15:02:45
+Connected to 127.0.0.1 in port 2004
+sábado 11 de julio de 2015 15:03:04
+sábado 11 de julio de 2015 15:03:10
+Connected to 127.0.0.1 in port 2004
+sábado 11 de julio de 2015 15:48:43
+Connected to 127.0.0.1 in port 2004
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:10.0  Posicion: ( 538, 288)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 13x6
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 9
+Densidad:0.2811716585301491
+Dimensiones (hxw): 143x53
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 4
+Densidad:0.5982905982905983
+Dimensiones (hxw): 39x27
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 13x6
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 15.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=544,y=294]
+Release Point: java.awt.Point[x=-405,y=606]
+Release Angle: 24.932912916015848
+It takes 18014 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 2
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 505, 311)
+chancho: Diametro:9.0  Posicion: ( 584, 311)
+chancho: Diametro:8.0  Posicion: ( 544, 312)
+chancho: Diametro:8.0  Posicion: ( 648, 289)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.4
+Dimensiones (hxw): 30x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.4
+Dimensiones (hxw): 30x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.4
+Dimensiones (hxw): 30x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.2979559748427673
+Dimensiones (hxw): 53x24
+
+SE HAN ENCONTRADO 4 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+ # Chanchos Libres: 4.
+---------Bloques-------------------------
+ # Total: 8.
+---------Construcciones------------------
+ # Total: 4. (2 o más bloques)
+ # Sin chanchos dentro: 4.
+---------Tipos de Construcciones---------
+ # House of Cards: 4
+---------Pájaros-------------------------
+ # Total: 5.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=510,y=317]
+Release Point: java.awt.Point[x=-345,y=489]
+Release Angle: 17.46604546602565
+It takes 15510 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 648, 289)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.6467931345980127
+Dimensiones (hxw): 27x41
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x24
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.2979559748427673
+Dimensiones (hxw): 53x24
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 7.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # House of Cards: 2
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=653,y=294]
+Release Point: java.awt.Point[x=-288,y=615]
+Release Angle: 31.167172646102266
+It takes 17850 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 3
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 605, 373)
+chancho: Diametro:8.0  Posicion: ( 620, 373)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 14x14
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 6
+Densidad:0.40844444444444444
+Dimensiones (hxw): 50x45
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+ # Chanchos Libres: 2.
+---------Bloques-------------------------
+ # Total: 6.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 14.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=518,y=344]
+Release Point: java.awt.Point[x=-357,y=524]
+Release Angle: 19.633159555638507
+It takes 15512 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 605, 373)
+chancho: Diametro:8.0  Posicion: ( 620, 372)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 14x14
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 6
+Densidad:0.40043572984749454
+Dimensiones (hxw): 51x45
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+ # Chanchos Libres: 2.
+---------Bloques-------------------------
+ # Total: 6.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=610,y=378]
+Release Point: java.awt.Point[x=-352,y=537]
+Release Angle: 21.05957331909964
+It takes 18144 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 4
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 574, 349)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 13
+Densidad:0.718609569125033
+Dimensiones (hxw): 78x97
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 13.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=576,y=324]
+Release Point: java.awt.Point[x=-376,y=571]
+Release Angle: 22.797757382856737
+It takes 15510 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 574, 349)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 9
+Densidad:0.5981351981351981
+Dimensiones (hxw): 55x78
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.898886827458256
+Dimensiones (hxw): 22x49
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 12.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=578,y=334]
+Release Point: java.awt.Point[x=-382,y=555]
+Release Angle: 21.216954360174146
+It takes 17868 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 5
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 585, 345)
+chancho: Diametro:14.0  Posicion: ( 590, 365)
+chancho: Diametro:9.0  Posicion: ( 587, 304)
+chancho: Diametro:8.0  Posicion: ( 592, 326)
+chancho: Diametro:8.0  Posicion: ( 594, 315)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 31
+Densidad:0.41266762250147593
+Dimensiones (hxw): 142x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 5.
+# En Construcción: 5.
+---------Bloques-------------------------
+ # Total: 30.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=587,y=280]
+Release Point: java.awt.Point[x=-280,y=661]
+Release Angle: 34.91784561174329
+It takes 15519 ms to take a shot
+
+scale factor changed to: 1.0042852192611529
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 585, 345)
+chancho: Diametro:14.0  Posicion: ( 590, 365)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 30
+Densidad:0.42246974582303926
+Dimensiones (hxw): 143x167
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 29.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=512,y=312]
+Release Point: java.awt.Point[x=-331,y=572]
+Release Angle: 24.585466660577612
+It takes 17823 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 6
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 556, 337)
+chancho: Diametro:9.0  Posicion: ( 624, 294)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 9
+Densidad:0.7094181935069109
+Dimensiones (hxw): 61x51
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 9
+Densidad:0.726775956284153
+Dimensiones (hxw): 61x51
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 18.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # Bunkers: 2
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 3.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=561,y=337]
+Release Point: java.awt.Point[x=-352,y=553]
+Release Angle: 22.095137279129442
+It takes 15469 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 624, 295)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 15
+Densidad:0.32955292570677186
+Dimensiones (hxw): 104x117
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 15.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 3.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=629,y=300]
+Release Point: java.awt.Point[x=-299,y=654]
+Release Angle: 33.388513576111514
+It takes 17796 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 7
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 560, 269)
+chancho: Diametro:8.0  Posicion: ( 594, 309)
+chancho: Diametro:8.0  Posicion: ( 634, 270)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 27
+Densidad:0.5399610136452242
+Dimensiones (hxw): 108x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 2.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 27.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=294]
+Release Point: java.awt.Point[x=-287,y=659]
+Release Angle: 35.25203439440858
+It takes 15501 ms to take a shot
+
+scale factor changed to: 1.0082288396787646
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 594, 308)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 26
+Densidad:0.5043859649122807
+Dimensiones (hxw): 108x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 26.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=294]
+Release Point: java.awt.Point[x=-288,y=658]
+Release Angle: 35.109395058241965
+It takes 15518 ms to take a shot
+
+scale factor changed to: 1.0033342212673562
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 594, 308)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 23
+Densidad:0.5351728320194057
+Dimensiones (hxw): 102x97
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 23.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=601,y=297]
+Release Point: java.awt.Point[x=-289,y=655]
+Release Angle: 34.79887965373972
+It takes 15483 ms to take a shot
+
+scale factor changed to: 0.9997183481859483
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 594, 309)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 23
+Densidad:0.483223992502343
+Dimensiones (hxw): 110x97
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 23.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=601,y=293]
+Release Point: java.awt.Point[x=-281,y=667]
+Release Angle: 36.27586186840428
+It takes 15499 ms to take a shot
+###########################################
+=> RESTART THE LEVEL 8
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 560, 269)
+chancho: Diametro:8.0  Posicion: ( 594, 309)
+chancho: Diametro:8.0  Posicion: ( 634, 270)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 27
+Densidad:0.5249512670565302
+Dimensiones (hxw): 108x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 2.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 27.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=294]
+Release Point: java.awt.Point[x=-285,y=662]
+Release Angle: 35.6209737782749
+It takes 15500 ms to take a shot
+
+scale factor changed to: 0.9976408689077302
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 595, 310)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 26
+Densidad:0.5072727272727273
+Dimensiones (hxw): 110x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 26.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=293]
+Release Point: java.awt.Point[x=-282,y=666]
+Release Angle: 36.132751736223945
+It takes 15470 ms to take a shot
+
+scale factor changed to: 1.0035912503092137
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 595, 309)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 16
+Densidad:0.5834385964912281
+Dimensiones (hxw): 75x95
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 7
+Densidad:0.6169354838709677
+Dimensiones (hxw): 40x62
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 5x7
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 24.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=310]
+Release Point: java.awt.Point[x=-302,y=636]
+Release Angle: 32.43976290315444
+It takes 15478 ms to take a shot
+
+scale factor changed to: 1.0027321546646548
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 594, 308)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 15
+Densidad:0.5493333333333333
+Dimensiones (hxw): 75x95
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 7
+Densidad:0.6169354838709677
+Dimensiones (hxw): 40x62
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 5x7
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 23.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=310]
+Release Point: java.awt.Point[x=-302,y=635]
+Release Angle: 32.35321899254409
+It takes 15469 ms to take a shot
+###########################################
+=> RESTART THE LEVEL 8
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 560, 269)
+chancho: Diametro:8.0  Posicion: ( 594, 309)
+chancho: Diametro:8.0  Posicion: ( 634, 270)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 27
+Densidad:0.5250603573153066
+Dimensiones (hxw): 109x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 2.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 27.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=293]
+Release Point: java.awt.Point[x=-285,y=662]
+Release Angle: 35.6209737782749
+It takes 15517 ms to take a shot
+
+scale factor changed to: 1.0027471658099314
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 595, 310)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 25
+Densidad:0.5149122807017544
+Dimensiones (hxw): 108x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 24.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=585,y=245]
+Release Point: java.awt.Point[x=-230,y=727]
+Release Angle: 44.34811660557126
+It takes 15470 ms to take a shot
+
+scale factor changed to: 1.0069734167358357
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 594, 308)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 18
+Densidad:0.5113397241056815
+Dimensiones (hxw): 91x94
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.6468531468531469
+Dimensiones (hxw): 22x13
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.5235294117647059
+Dimensiones (hxw): 17x20
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 22.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # House of Cards: 2
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=302]
+Release Point: java.awt.Point[x=-296,y=646]
+Release Angle: 33.63328282751231
+It takes 15485 ms to take a shot
+
+scale factor changed to: 1.0023176143949413
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 594, 308)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 18
+Densidad:0.4756838905775076
+Dimensiones (hxw): 91x94
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.6468531468531469
+Dimensiones (hxw): 22x13
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.5235294117647059
+Dimensiones (hxw): 17x20
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 22.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # House of Cards: 2
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=302]
+Release Point: java.awt.Point[x=-294,y=648]
+Release Angle: 33.91743053697035
+It takes 15463 ms to take a shot
+###########################################
+=> RESTART THE LEVEL 8
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 560, 269)
+chancho: Diametro:8.0  Posicion: ( 594, 309)
+chancho: Diametro:8.0  Posicion: ( 634, 270)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 26
+Densidad:0.5225146198830409
+Dimensiones (hxw): 108x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 2.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 26.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=294]
+Release Point: java.awt.Point[x=-286,y=660]
+Release Angle: 35.39479584498705
+It takes 15541 ms to take a shot
+
+scale factor changed to: 0.9997293785607174
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 595, 310)
+chancho: Diametro:8.0  Posicion: ( 637, 269)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 26
+Densidad:0.5225146198830409
+Dimensiones (hxw): 108x95
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 26.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=294]
+Release Point: java.awt.Point[x=-286,y=660]
+Release Angle: 35.39479584498705
+It takes 15505 ms to take a shot
+
+scale factor changed to: 1.0023962531205037
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 594, 308)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 24
+Densidad:0.5370370370370371
+Dimensiones (hxw): 108x96
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 24.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=601,y=294]
+Release Point: java.awt.Point[x=-286,y=660]
+Release Angle: 35.39479584498705
+It takes 15575 ms to take a shot
+
+scale factor changed to: 0.9993133166353072
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:7.0  Posicion: ( 594, 308)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 20
+Densidad:0.7200734394124847
+Dimensiones (hxw): 86x95
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.8359375
+Dimensiones (hxw): 12x32
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x11
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 24.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=600,y=305]
+Release Point: java.awt.Point[x=-295,y=647]
+Release Angle: 33.77528676831387
+It takes 15499 ms to take a shot
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 488, 319)
+chancho: Diametro:8.0  Posicion: ( 531, 265)
+chancho: Diametro:8.0  Posicion: ( 591, 265)
+chancho: Diametro:8.0  Posicion: ( 636, 321)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.9705882352941176
+Dimensiones (hxw): 34x11
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.702922077922078
+Dimensiones (hxw): 28x22
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.9428571428571428
+Dimensiones (hxw): 35x11
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+ # Chanchos Obstruidos: 3.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 8.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Sin chanchos dentro: 3.
+---------Tipos de Construcciones---------
+ # House of Cards: 3
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=556,y=238]
+Release Point: java.awt.Point[x=-242,y=714]
+Release Angle: 41.58341180822866
+It takes 15508 ms to take a shot
+
+scale factor changed to: 0.9919460425358788
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 489, 319)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.8642857142857143
+Dimensiones (hxw): 35x12
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 7x7
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 14x14
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.9698996655518395
+Dimensiones (hxw): 13x23
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 5.
+ # Circulares: 2.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # House of Cards: 2
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=494,y=324]
+Release Point: java.awt.Point[x=-345,y=548]
+Release Angle: 21.838747884137547
+It takes 18682 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 9
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 605, 348)
+chancho: Diametro:8.0  Posicion: ( 559, 312)
+chancho: Diametro:8.0  Posicion: ( 652, 313)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 33
+Densidad:0.40479002624671917
+Dimensiones (hxw): 120x127
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 3.
+---------Bloques-------------------------
+ # Total: 33.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=610,y=323]
+Release Point: java.awt.Point[x=-288,y=582]
+Release Angle: 29.516826249432754
+It takes 15629 ms to take a shot
+
+scale factor changed to: 1.0066013989849398
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 644, 313)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 11x23
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 30
+Densidad:0.3670698924731183
+Dimensiones (hxw): 120x124
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 31.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=649,y=318]
+Release Point: java.awt.Point[x=-265,y=619]
+Release Angle: 34.23001176738291
+It takes 17935 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 10
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 610, 292)
+chancho: Diametro:8.0  Posicion: ( 528, 336)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 17
+Densidad:0.43888070692194403
+Dimensiones (hxw): 97x63
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 16
+Densidad:0.5906178489702517
+Dimensiones (hxw): 95x46
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 33.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # Tower: 2
+---------Pájaros-------------------------
+ # Total: 5.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=510,y=298]
+Release Point: java.awt.Point[x=-284,y=569]
+Release Angle: 28.046508347965066
+It takes 16982 ms to take a shot
+
+scale factor changed to: 1.0115145645618486
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 610, 292)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 10x9
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 12
+Densidad:0.7242933934454656
+Dimensiones (hxw): 73x79
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 16
+Densidad:0.580091533180778
+Dimensiones (hxw): 95x46
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 29.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 2
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=594,y=262]
+Release Point: java.awt.Point[x=-217,y=666]
+Release Angle: 41.092423523305584
+It takes 17698 ms to take a shot
+
+scale factor changed to: 1.0075536561939242
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 605, 293)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 10x9
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 12
+Densidad:0.8749516066589237
+Dimensiones (hxw): 63x123
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 11x11
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 14.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=490,y=307]
+Release Point: java.awt.Point[x=-299,y=540]
+Release Angle: 24.443954780416536
+It takes 16930 ms to take a shot
+
+scale factor changed to: 1.0075536561939242
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 605, 293)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 12x13
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 6
+Densidad:1.2622710622710622
+Dimensiones (hxw): 35x78
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.5676638176638176
+Dimensiones (hxw): 39x36
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 11x11
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 10.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=612,y=301]
+Release Point: java.awt.Point[x=-252,y=622]
+Release Angle: 34.88355694996182
+It takes 17709 ms to take a shot
+
+scale factor changed to: 1.0082350705630072
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 604, 292)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 12x13
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 6
+Densidad:1.1912087912087912
+Dimensiones (hxw): 35x78
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.5834586466165415
+Dimensiones (hxw): 38x35
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 11x11
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 10.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=612,y=300]
+Release Point: java.awt.Point[x=-250,y=624]
+Release Angle: 35.19105731822209
+It takes 17573 ms to take a shot
+###########################################
+=> RESTART THE LEVEL 11
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 610, 292)
+chancho: Diametro:8.0  Posicion: ( 528, 336)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 16
+Densidad:0.4621174930453281
+Dimensiones (hxw): 97x63
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 16
+Densidad:0.580091533180778
+Dimensiones (hxw): 95x46
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 32.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # Tower: 2
+---------Pájaros-------------------------
+ # Total: 5.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=510,y=298]
+Release Point: java.awt.Point[x=-285,y=568]
+Release Angle: 27.89727103094763
+It takes 17024 ms to take a shot
+
+scale factor changed to: 1.0226759099313516
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 610, 292)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 10x10
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 29
+Densidad:0.47183668748554247
+Dimensiones (hxw): 132x131
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 29.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=621,y=244]
+Release Point: java.awt.Point[x=-158,y=724]
+Release Angle: 50.23682834216088
+It takes 18289 ms to take a shot
+
+scale factor changed to: 1.0080833891106624
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 610, 292)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 10x10
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 11
+Densidad:1.1204326923076924
+Dimensiones (hxw): 64x65
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 8
+Densidad:0.464818763326226
+Dimensiones (hxw): 67x63
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 6x8
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 21.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 2
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=579,y=280]
+Release Point: java.awt.Point[x=-245,y=632]
+Release Angle: 36.23011768932234
+It takes 17467 ms to take a shot
+
+scale factor changed to: 1.0073530570969809
+
+##### DATOS DE LOS CHANCHOS #####
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 5
+Densidad:1.180907668231612
+Dimensiones (hxw): 45x71
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 10x10
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 9
+Densidad:0.5022806057288816
+Dimensiones (hxw): 63x87
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 0.
+---------Bloques-------------------------
+ # Total: 14.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: BlackBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+###########################################
+=> LOADING THE LEVEL 11
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 624, 313)
+chancho: Diametro:8.0  Posicion: ( 505, 258)
+chancho: Diametro:8.0  Posicion: ( 544, 349)
+chancho: Diametro:8.0  Posicion: ( 559, 349)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 27
+Densidad:0.8398058252427184
+Dimensiones (hxw): 103x48
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 10
+Densidad:0.7108886107634543
+Dimensiones (hxw): 51x47
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+# En Construcción: 1.
+ # Chanchos Obstruidos: 3.
+---------Bloques-------------------------
+ # Total: 37.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 2.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=482,y=308]
+Release Point: java.awt.Point[x=-347,y=570]
+Release Angle: 24.493936546900347
+It takes 15625 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 625, 313)
+chancho: Diametro:9.0  Posicion: ( 493, 257)
+chancho: Diametro:8.0  Posicion: ( 544, 349)
+chancho: Diametro:8.0  Posicion: ( 559, 349)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 26
+Densidad:0.7961165048543689
+Dimensiones (hxw): 103x50
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 10
+Densidad:0.7017104714226116
+Dimensiones (hxw): 51x47
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+# En Construcción: 1.
+ # Chanchos Obstruidos: 3.
+---------Bloques-------------------------
+ # Total: 36.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 2.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=481,y=308]
+Release Point: java.awt.Point[x=-348,y=568]
+Release Angle: 24.26904452717341
+It takes 16880 ms to take a shot
+
+scale factor changed to: 1.005
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 626, 314)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 11x10
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 17
+Densidad:0.6758409785932722
+Dimensiones (hxw): 69x109
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 12
+Densidad:0.5782932891466446
+Dimensiones (hxw): 51x71
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+ # Chanchos Obstruidos: 1.
+---------Bloques-------------------------
+ # Total: 30.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # Bunkers: 2
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 2.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A OBSTRUCTED PIG **
+Target Point: java.awt.Point[x=633,y=322]
+Release Point: java.awt.Point[x=-93,y=838]
+Release Angle: 62.35402463626133
+It takes 21292 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 12
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 606, 356)
+chancho: Diametro:8.0  Posicion: ( 620, 328)
+chancho: Diametro:8.0  Posicion: ( 628, 356)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 29
+Densidad:0.40365612648221344
+Dimensiones (hxw): 110x92
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 3.
+---------Bloques-------------------------
+ # Total: 29.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=623,y=313]
+Release Point: java.awt.Point[x=-271,y=657]
+Release Angle: 36.25383773744479
+It takes 17655 ms to take a shot
+
+scale factor changed to: 1.0025031654320855
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:7.0  Posicion: ( 606, 357)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 5x5
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 5x9
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 13
+Densidad:0.4668335419274093
+Dimensiones (hxw): 47x119
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 14.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=539,y=381]
+Release Point: java.awt.Point[x=-354,y=487]
+Release Angle: 16.04760538898432
+It takes 16980 ms to take a shot
+
+scale factor changed to: 1.0025031654320855
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 606, 357)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 13
+Densidad:0.3878757176629517
+Dimensiones (hxw): 47x126
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 13.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=611,y=362]
+Release Point: java.awt.Point[x=-319,y=577]
+Release Angle: 26.32731071778499
+It takes 19750 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 13
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 577, 304)
+chancho: Diametro:9.0  Posicion: ( 583, 270)
+chancho: Diametro:8.0  Posicion: ( 587, 249)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 29
+Densidad:0.44761297376093295
+Dimensiones (hxw): 98x112
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 3.
+---------Bloques-------------------------
+ # Total: 29.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=585,y=297]
+Release Point: java.awt.Point[x=-311,y=647]
+Release Angle: 33.24332586196441
+It takes 17352 ms to take a shot
+
+scale factor changed to: 1.01218412267672
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:14.0  Posicion: ( 577, 304)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 27
+Densidad:0.5668773704171934
+Dimensiones (hxw): 70x113
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 27.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=584,y=311]
+Release Point: java.awt.Point[x=-327,y=621]
+Release Angle: 30.169471716253696
+It takes 20265 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 14
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:16.0  Posicion: ( 546, 362)
+chancho: Diametro:13.0  Posicion: ( 525, 366)
+chancho: Diametro:13.0  Posicion: ( 569, 366)
+chancho: Diametro:8.0  Posicion: ( 499, 373)
+chancho: Diametro:7.0  Posicion: ( 512, 373)
+chancho: Diametro:7.0  Posicion: ( 587, 374)
+chancho: Diametro:7.0  Posicion: ( 600, 374)
+chancho: Diametro:7.0  Posicion: ( 611, 373)
+chancho: Diametro:7.0  Posicion: ( 623, 374)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 11
+Densidad:0.7305454545454545
+Dimensiones (hxw): 55x50
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 9.
+ # Chanchos Obstruidos: 4.
+ # Chanchos Libres: 5.
+---------Bloques-------------------------
+ # Total: 9.
+ # Circulares: 2.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 3.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=537,y=249]
+Release Point: java.awt.Point[x=-273,y=580]
+Release Angle: 32.96940390346213
+It takes 15546 ms to take a shot
+
+scale factor changed to: 0.9918927011798213
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:16.0  Posicion: ( 555, 363)
+chancho: Diametro:13.0  Posicion: ( 579, 367)
+chancho: Diametro:8.0  Posicion: ( 622, 373)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 8
+Densidad:0.8270099367660343
+Dimensiones (hxw): 41x54
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.7254464285714286
+Dimensiones (hxw): 16x28
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 1.
+ # Chanchos Libres: 2.
+---------Bloques-------------------------
+ # Total: 9.
+ # Circulares: 2.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 3.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=627,y=378]
+Release Point: java.awt.Point[x=-322,y=455]
+Release Angle: 18.4000761677558
+It takes 15491 ms to take a shot
+
+scale factor changed to: 0.9918927011798213
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:16.0  Posicion: ( 555, 363)
+chancho: Diametro:14.0  Posicion: ( 577, 367)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 8
+Densidad:0.8270099367660343
+Dimensiones (hxw): 41x54
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.946078431372549
+Dimensiones (hxw): 12x17
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 5x5
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+ # Chanchos Libres: 2.
+---------Bloques-------------------------
+ # Total: 8.
+ # Circulares: 3.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Sin chanchos dentro: 2.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: RedBird.
+---------Colinas-------------------------
+ # Total: 3.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=564,y=372]
+Release Point: java.awt.Point[x=-336,y=404]
+Release Angle: 12.56469981941569
+It takes 17802 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 15
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 598, 366)
+chancho: Diametro:8.0  Posicion: ( 644, 346)
+chancho: Diametro:7.0  Posicion: ( 557, 347)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 10
+Densidad:0.543231961836613
+Dimensiones (hxw): 78x43
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 13
+Densidad:0.7313049853372434
+Dimensiones (hxw): 62x44
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 10
+Densidad:0.5544217687074829
+Dimensiones (hxw): 77x42
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+ # Chanchos Obstruidos: 3.
+---------Bloques-------------------------
+ # Total: 33.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Sin chanchos dentro: 3.
+---------Tipos de Construcciones---------
+ # Tower: 3
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 2.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A OBSTRUCTED PIG **
+Target Point: java.awt.Point[x=605,y=374]
+Release Point: java.awt.Point[x=-89,y=798]
+Release Angle: 62.10272896905237
+It takes 19261 ms to take a shot
+
+scale factor changed to: 1.0025319677444204
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 556, 347)
+chancho: Diametro:8.0  Posicion: ( 644, 346)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 10
+Densidad:0.556350626118068
+Dimensiones (hxw): 78x43
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 7
+Densidad:0.5905872553102873
+Dimensiones (hxw): 49x49
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 10
+Densidad:0.544548474781033
+Dimensiones (hxw): 77x43
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+ # Chanchos Obstruidos: 2.
+---------Bloques-------------------------
+ # Total: 27.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Sin chanchos dentro: 3.
+---------Tipos de Construcciones---------
+ # Tower: 3
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 2.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A OBSTRUCTED PIG **
+Target Point: java.awt.Point[x=561,y=352]
+Release Point: java.awt.Point[x=-64,y=810]
+Release Angle: 65.16317647342056
+It takes 19262 ms to take a shot
+
+scale factor changed to: 1.0022409579382074
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 644, 346)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 10x10
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 8
+Densidad:0.5462697274031564
+Dimensiones (hxw): 41x68
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 7x7
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:1.0675675675675675
+Dimensiones (hxw): 37x16
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 10
+Densidad:0.544548474781033
+Dimensiones (hxw): 77x43
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 21.
+ # Circulares: 2.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Sin chanchos dentro: 3.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Tower: 2
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 2.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=575,y=354]
+Release Point: java.awt.Point[x=-308,y=576]
+Release Angle: 27.157234529207003
+It takes 17407 ms to take a shot
+
+scale factor changed to: 0.9905315362873601
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 644, 346)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 10x10
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.9266304347826086
+Dimensiones (hxw): 32x23
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 7
+Densidad:0.5856662933930571
+Dimensiones (hxw): 38x47
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 10
+Densidad:0.544548474781033
+Dimensiones (hxw): 77x43
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+ # Chanchos Libres: 1.
+---------Bloques-------------------------
+ # Total: 20.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Sin chanchos dentro: 3.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Tower: 2
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: BlueBird.
+---------Colinas-------------------------
+ # Total: 2.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A FREE PIG **
+Target Point: java.awt.Point[x=649,y=351]
+Release Point: java.awt.Point[x=-253,y=661]
+Release Angle: 38.349451966247315
+It takes 20233 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 16
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 579, 312)
+chancho: Diametro:13.0  Posicion: ( 626, 311)
+chancho: Diametro:8.0  Posicion: ( 590, 356)
+chancho: Diametro:8.0  Posicion: ( 619, 355)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 25
+Densidad:0.6571699905033238
+Dimensiones (hxw): 81x91
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.196969696969697
+Dimensiones (hxw): 11x12
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+# En Construcción: 4.
+---------Bloques-------------------------
+ # Total: 27.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 5.
+ # En la resortera: YellowBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=609,y=325]
+Release Point: java.awt.Point[x=-295,y=600]
+Release Angle: 31.65001178179981
+It takes 17352 ms to take a shot
+
+scale factor changed to: 1.0002065551242663
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:13.0  Posicion: ( 625, 312)
+chancho: Diametro:8.0  Posicion: ( 619, 355)
+chancho: Diametro:7.0  Posicion: ( 590, 356)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 19
+Densidad:0.5303571428571429
+Dimensiones (hxw): 80x91
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.196969696969697
+Dimensiones (hxw): 11x12
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 3.
+---------Bloques-------------------------
+ # Total: 21.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: YellowBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=609,y=326]
+Release Point: java.awt.Point[x=-294,y=600]
+Release Angle: 31.706850785916174
+It takes 17412 ms to take a shot
+
+scale factor changed to: 1.012718629482207
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 619, 355)
+chancho: Diametro:7.0  Posicion: ( 590, 356)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Bunker
+Cantidad de Bloques: 16
+Densidad:0.6270955165692008
+Dimensiones (hxw): 54x95
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.196969696969697
+Dimensiones (hxw): 11x12
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+# En Construcción: 2.
+---------Bloques-------------------------
+ # Total: 18.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Bunkers: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: YellowBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN BUNKER **
+Target Point: java.awt.Point[x=608,y=339]
+Release Point: java.awt.Point[x=-310,y=573]
+Release Angle: 28.30808727965966
+It takes 17291 ms to take a shot
+
+scale factor changed to: 1.0095452255234187
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:8.0  Posicion: ( 617, 355)
+chancho: Diametro:7.0  Posicion: ( 590, 356)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.9857954545454546
+Dimensiones (hxw): 32x22
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 22x10
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 4
+Densidad:0.7638888888888888
+Dimensiones (hxw): 44x18
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.196969696969697
+Dimensiones (hxw): 11x12
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 2.
+ # Chanchos Obstruidos: 2.
+---------Bloques-------------------------
+ # Total: 10.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Sin chanchos dentro: 3.
+---------Tipos de Construcciones---------
+ # House of Cards: 2
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: YellowBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A OBSTRUCTED PIG **
+Target Point: java.awt.Point[x=622,y=360]
+Release Point: java.awt.Point[x=-93,y=789]
+Release Angle: 61.93388138461799
+It takes 18891 ms to take a shot
+
+scale factor changed to: 1.0079837696060128
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:7.0  Posicion: ( 590, 356)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.9857954545454546
+Dimensiones (hxw): 32x22
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 22x10
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 3
+Densidad:0.859375
+Dimensiones (hxw): 32x12
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.196969696969697
+Dimensiones (hxw): 11x12
+
+SE HAN ENCONTRADO 3 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+ # Chanchos Obstruidos: 1.
+---------Bloques-------------------------
+ # Total: 9.
+---------Construcciones------------------
+ # Total: 3. (2 o más bloques)
+ # Sin chanchos dentro: 3.
+---------Tipos de Construcciones---------
+ # House of Cards: 3
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: YellowBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A OBSTRUCTED PIG **
+Target Point: java.awt.Point[x=595,y=361]
+Release Point: java.awt.Point[x=-73,y=799]
+Release Angle: 64.35508933146215
+It takes 21173 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 17
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 588, 229)
+chancho: Diametro:8.0  Posicion: ( 572, 320)
+chancho: Diametro:8.0  Posicion: ( 608, 321)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 43
+Densidad:0.43376634853305057
+Dimensiones (hxw): 184x123
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 3.
+# En Construcción: 3.
+---------Bloques-------------------------
+ # Total: 43.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 3.
+ # En la resortera: YellowBird.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=532,y=292]
+Release Point: java.awt.Point[x=-328,y=620]
+Release Angle: 29.70806670818991
+It takes 16879 ms to take a shot
+
+scale factor changed to: 1.008610338800949
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 605, 320)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 11x12
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 12x11
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 34
+Densidad:0.35596603403362764
+Dimensiones (hxw): 167x177
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 35.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+---------Pájaros-------------------------
+ # Total: 2.
+ # En la resortera: YellowBird.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=489,y=371]
+Release Point: java.awt.Point[x=-394,y=440]
+Release Angle: 10.650050912302659
+It takes 16572 ms to take a shot
+
+scale factor changed to: 1.008610338800949
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 615, 320)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 11x12
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 12x11
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 28
+Densidad:0.3649773623484738
+Dimensiones (hxw): 167x123
+
+SE HAN ENCONTRADO 1 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 1.
+# En Construcción: 1.
+---------Bloques-------------------------
+ # Total: 30.
+---------Construcciones------------------
+ # Total: 1. (2 o más bloques)
+ # Con chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+---------Pájaros-------------------------
+ # Total: 1.
+ # En la resortera: YellowBird.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN HOUSE OF CARDS **
+Target Point: java.awt.Point[x=621,y=325]
+Release Point: java.awt.Point[x=-331,y=615]
+Release Angle: 29.13145955870013
+It takes 19416 ms to take a shot
+###########################################
+=> LOADING THE LEVEL 18
+###########################################
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 600, 371)
+chancho: Diametro:9.0  Posicion: ( 630, 344)
+chancho: Diametro:9.0  Posicion: ( 660, 316)
+chancho: Diametro:9.0  Posicion: ( 687, 290)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: Tower
+Cantidad de Bloques: 20
+Densidad:0.4248258064516129
+Dimensiones (hxw): 155x125
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:1.1428571428571428
+Dimensiones (hxw): 13x14
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+# En Construcción: 4.
+---------Bloques-------------------------
+ # Total: 22.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 1
+ # Tower: 1
+---------Pájaros-------------------------
+ # Total: 11.
+ # En la resortera: YellowBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A BUILDING PIG EN TOWER **
+Target Point: java.awt.Point[x=574,y=306]
+Release Point: java.awt.Point[x=-379,y=617]
+Release Angle: 27.39236955189274
+It takes 16906 ms to take a shot
+
+scale factor changed to: 1.0166326789006757
+
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:9.0  Posicion: ( 629, 344)
+chancho: Diametro:9.0  Posicion: ( 660, 316)
+chancho: Diametro:9.0  Posicion: ( 687, 290)
+chancho: Diametro:8.0  Posicion: ( 601, 372)
+
+
+##### DATOS DE LAS CONSTRUCCIONES #####
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 1
+Densidad:1.0
+Dimensiones (hxw): 12x25
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 15
+Densidad:0.3176862507571169
+Dimensiones (hxw): 156x127
+--------------------------------------------------
+Tipo de Construccion: House of Cards
+Cantidad de Bloques: 2
+Densidad:0.9236111111111112
+Dimensiones (hxw): 12x12
+
+SE HAN ENCONTRADO 2 CONSRUCCIONES.
+
+##### DATOS DEL ESCENARIO #####
+---------Chanchos------------------------
+ # Total: 4.
+# En Construcción: 4.
+---------Bloques-------------------------
+ # Total: 17.
+ # Circulares: 1.
+---------Construcciones------------------
+ # Total: 2. (2 o más bloques)
+ # Con chanchos dentro: 1.
+ # Sin chanchos dentro: 1.
+---------Tipos de Construcciones---------
+ # House of Cards: 2
+---------Pájaros-------------------------
+ # Total: 4.
+ # En la resortera: YellowBird.
+---------Colinas-------------------------
+ # Total: 1.
+
+##### PREPARANDO DISPARO #####
+** DISPARO A PIEDRA CIRCULAR **
+Target Point: java.awt.Point[x=707,y=147]
