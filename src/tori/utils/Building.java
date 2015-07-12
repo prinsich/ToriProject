@@ -1171,7 +1171,11 @@ public boolean tieneNBloquesAlineados ( int N){
 }
 
 
-
+public boolean isBlockinBuilding(ABObject block){
+	
+	return this.blocks.contains(block);
+	
+}
 
 
 

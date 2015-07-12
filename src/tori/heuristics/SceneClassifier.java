@@ -66,9 +66,9 @@ public class SceneClassifier {
 				Scene.CircularBlocks.add(b);
 			}
 		}
-		System.out.println("bloques with circular: "  + Scene.Blocks.size());
-		Scene.Blocks.removeAll(Scene.CircularBlocks);
-		System.out.println("bloques without circular: "  + Scene.Blocks.size());
+//		System.out.println("bloques with circular: "  + Scene.Blocks.size());
+//		Scene.Blocks.removeAll(Scene.CircularBlocks);
+//		System.out.println("bloques without circular: "  + Scene.Blocks.size());
 		ABObjectComp comparator = new ABObjectComp();
         comparator.sortByWidth();
         comparator.sortDesc();

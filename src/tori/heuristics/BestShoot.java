@@ -2,6 +2,8 @@ package tori.heuristics;
 
 import java.awt.Point;
 
+import tori.utils.Building;
+
 public class BestShoot {
 
 	private boolean highShoot;
@@ -25,9 +27,30 @@ public class BestShoot {
 		}
 		else */
 		if(!scene.CircularBlocks.isEmpty() && CircularFirstShoot) {
-			objStr = "** DISPARO A PIEDRA CIRCULAR **";
-			int x = scene.CircularBlocks.get(0).x - 1;
-			int y = scene.CircularBlocks.get(0).y + scene.CircularBlocks.get(0).height;
+			boolean inBuilding = false;
+			int bld = -1;
+			int x,y;
+			for (int i = 0; i < scene.Buildings.size(); i++) {
+				if(scene.Buildings.get(i).isBlockinBuilding(scene.CircularBlocks.get(0) ) ){
+					inBuilding = true;
+					bld = i;
+					break;
+				}
+			}
+			
+			if(inBuilding){
+//				objStr = "** DISPARO A PIEDRA CIRCULAR EN BUILDING **";
+//				x = scene.Buildings.get(bld).x;
+//				y = (int)(scene.Buildings.get(bld).getBoundingRect().y + (scene.Buildings.get(bld).getBoundingRect().height*0.35));
+				this.CircularFirstShoot = false;
+				return this.getTarget(scene);
+				
+			}
+			else{
+				objStr = "** DISPARO A PIEDRA CIRCULAR **";
+				x = scene.CircularBlocks.get(0).x - 1;
+				y = (int)(scene.CircularBlocks.get(0).y + scene.CircularBlocks.get(0).height * 0.7);
+			}
 			
 			targetObj = new Point(x, y);
 			CircularFirstShoot = false;
@@ -40,7 +63,7 @@ public class BestShoot {
 			} else if(scene.Buildings.get(0).GetBuildingType() == "Tower"){
 				msj += "TOWER **";
 				int x = scene.Buildings.get(0).getBoundingRect().x;
-				int y = scene.Buildings.get(0).getBoundingRect().y + (scene.Buildings.get(0).getBoundingRect().height/2);
+				int y = (int)(scene.Buildings.get(0).getBoundingRect().y + (scene.Buildings.get(0).getBoundingRect().height*0.35));
 				
 				targetObj = new Point(x, y);
 				
@@ -66,7 +89,7 @@ public class BestShoot {
 			targetObj = scene.FreePigs.get(0).getCenter();
 		}
 		else {
-			objStr = "NO ENCONTRO OBJETO PARA DISPARA";
+			objStr = "NO ENCONTRO OBJETO PARA DISPARAR";
 			return null;
 		}
 		
