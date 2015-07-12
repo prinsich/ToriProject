@@ -138,6 +138,7 @@ public class ClientNaiveAgent implements Runnable {
 			
 			state = solve(bs);
 
+			tori.utils.Logger.Print("\n");
 			System.out.println();
 			//If the level is solved , go to the next level
 			if (state == GameState.WON) {
@@ -288,11 +289,15 @@ public class ClientNaiveAgent implements Runnable {
 
 
 				//Este if es para que si en hay un chancho obstruido hace el tiro alto
-				if (highShoot && pts.size() > 1){
-					releasePoint = pts.get(1); //pts.get(1) -> tiro alto
+				if(pts.size() > 0) {
+					if (highShoot && pts.size() > 1){
+						releasePoint = pts.get(1); //pts.get(1) -> tiro alto
+					}
+					else
+						releasePoint = pts.get(0); //pts.get(0) -> tiro bajo
 				}
-				else
-					releasePoint = pts.get(0); //pts.get(0) -> tiro bajo
+				
+				
 
 				Point refPoint = tp.getReferencePoint(this.Scene.Sling);
 

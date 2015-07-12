@@ -163,7 +163,7 @@ public class SceneClassifier {
 		System.out.println("##### DATOS DE LAS CONSTRUCCIONES #####");
 		while(tobevisited.size() != 0){
 			Building b = FindBuilding(tobevisited);
-			if(b.blocks.size() > 1)
+			if(b.blocks.size() > 2) // son considerado contruciones si tiene mas de 2 bloques
 				boundingboxes.add(b);
 
 		}
