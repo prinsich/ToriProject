@@ -51,6 +51,8 @@ public class SceneClassifier {
 		Scene.TNTs = (temp != null) ? temp : new LinkedList<ABObject>(); // TNTs
 
 		Scene.BirdOnSling = ar.getBirdTypeOnSling(); // BirdType on Sling
+		System.out.println(Scene.Birds.size());
+		System.out.println(Scene.BirdOnSling.toString());
 
 
 		//Scene.Buildings = Building.FindBuildings(Scene); // Construcciones con chanchos

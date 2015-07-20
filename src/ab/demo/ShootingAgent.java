@@ -52,7 +52,8 @@ public class ShootingAgent {
 		Rectangle _slingshot = vision.findSlingshotMBR();
 		if(!slingshot.equals(_slingshot))
 			System.out.println("the scale is changed, the shot might not be executed properly.");
-		ar.cshoot(shot);
+		//ar.cshoot(shot);
+		ar.cFastshoot(shot);
 		System.exit(0);
 	}
 	
