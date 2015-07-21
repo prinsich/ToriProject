@@ -11,15 +11,21 @@ package ab.demo;
 import java.awt.Point;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
 import tori.heuristics.BestShoot;
 import tori.heuristics.SceneClassifier;
 import tori.heuristics.SceneState;
+import tori.utils.Building;
+import tori.utils.Logger;
 import ab.demo.other.ClientActionRobot;
 import ab.demo.other.ClientActionRobotJava;
+import ab.demo.other.Shot;
 import ab.planner.TrajectoryPlanner;
 import ab.vision.GameStateExtractor.GameState;
 import ab.vision.Vision;
@@ -108,6 +114,14 @@ public class ClientNaiveAgent implements Runnable {
 			level ++;
 		}
 	}
+	
+	private int getScoreByStage(int stageNumber){
+		int[] scores = ar.checkMyScore();
+		if(scores.length >= stageNumber)
+			return scores[stageNumber];
+		System.out.println("stageNumber_ " + stageNumber);
+		return 0;
+	}
 
 	@SuppressWarnings("unused")
 	private void GlobalBestScore(){
@@ -123,6 +137,9 @@ public class ClientNaiveAgent implements Runnable {
 	}
 
 	public void run() {	
+		
+		Logger.ScoreFile = "levelsScores - " + new SimpleDateFormat("MM-dd HH-mm-ss").format(new Date()) + ".txt";
+		
 		byte[] info = ar.configure(ClientActionRobot.intToByteArray(id));
 		solved = new int[info[2]];
 		BestShoot bs = new BestShoot();
@@ -153,6 +170,9 @@ public class ClientNaiveAgent implements Runnable {
 				//checkMyScore();
 				System.out.println();
 				
+				//Guardo el log de niveles.
+				Logger.Print(this.getScoreByStage(currentLevel-1)+"", Logger.ScoreFile);
+				
 				currentLevel = (byte)getNextLevel(); 
 				ar.loadLevel(currentLevel);
 				//GlobalBestScore();
@@ -181,6 +201,8 @@ public class ClientNaiveAgent implements Runnable {
 						tori.utils.Logger.Print("###########################################");
 						tori.utils.Logger.Print("=> RESTART THE LEVEL " + (currentLevel + 1) );
 						tori.utils.Logger.Print("###########################################");
+						
+						Logger.Print(" - Restart.", Logger.ScoreFile);
 						
 						System.out.println("###########################################");
 						System.out.println("=> RESTART THE LEVEL " + (currentLevel + 1) );
@@ -227,6 +249,10 @@ public class ClientNaiveAgent implements Runnable {
 		Vision vision = new Vision(screenshot);
 
 		new SceneClassifier().Identify(Scene, vision, ar);
+		if(Scene.firstShot){
+			String result ="\nNivel: " + (this.currentLevel);
+			Logger.Print(result, Logger.ScoreFile);
+		}
 		//this.percibirElementosDeLaEscena(vision);
 
 
@@ -267,25 +293,26 @@ public class ClientNaiveAgent implements Runnable {
 				tori.utils.Logger.Print("##### PREPARANDO DISPARO #####");
 				System.out.println("##### PREPARANDO DISPARO #####");
 				
-				Point target = bs.getTarget(this.Scene);
-				tori.utils.Logger.Print("Target Point: " + target.toString());
-				System.out.println("Target Point: " + target.toString());
+//				Point target = bs.getTarget(this.Scene);
+				Shot target = bs.getBestTarget(this.Scene);
+				tori.utils.Logger.Print("Target Point: " + target.getXY().toString());
+				System.out.println("Target Point: " + target.getXY().toString());
 				highShoot = bs.isHighShoot();
 				//CircularFirstShoot = bs.isCircularFirstShoot();
 
-				// if the target is very close to before, randomly choose a
-				// point near it
-				if (this.Scene.prevTarget != null && distance(this.Scene.prevTarget, target) < 10) {
-					double _angle = randomGenerator.nextDouble() * Math.PI;
-					target.x = target.x + (int) (Math.cos(_angle) * 2);
-					target.y = target.y + (int) (Math.sin(_angle) * 2);
-					System.out.println("[Correction] New Target Point " + target);
-				}
+//				// if the target is very close to before, randomly choose a
+//				// point near it
+//				if (this.Scene.prevTarget != null && distance(this.Scene.prevTarget, target) < 10) {
+//					double _angle = randomGenerator.nextDouble() * Math.PI;
+//					target.x = target.x + (int) (Math.cos(_angle) * 2);
+//					target.y = target.y + (int) (Math.sin(_angle) * 2);
+//					System.out.println("[Correction] New Target Point " + target);
+//				}
 
-				this.Scene.prevTarget = new Point(target.x, target.y);
+				this.Scene.prevTarget = new Point(target.getX(), target.getY());
 
 				// estimate the trajectory
-				ArrayList<Point> pts = tp.estimateLaunchPoint(this.Scene.Sling, target);
+				ArrayList<Point> pts = tp.estimateLaunchPoint(this.Scene.Sling, this.Scene.prevTarget);
 
 
 				//Este if es para que si en hay un chancho obstruido hace el tiro alto
@@ -302,7 +329,7 @@ public class ClientNaiveAgent implements Runnable {
 				Point refPoint = tp.getReferencePoint(this.Scene.Sling);
 
 				// Get the release point from the trajectory prediction module
-				int tapTime = 0;
+//				int tapTime = 0;
 				if (releasePoint != null) {
 					double releaseAngle = tp.getReleaseAngle(this.Scene.Sling, releasePoint);
 					tori.utils.Logger.Print("Release Point: " + releasePoint);
@@ -311,8 +338,8 @@ public class ClientNaiveAgent implements Runnable {
 					System.out.println("Release Angle: " + Math.toDegrees(releaseAngle));
 
 					//Segundo CLick por prorcentaje de distacia recorrida
-					int tapInterval = bs.getTapTime(this.Scene);
-					tapTime = tp.getTapTime(this.Scene.Sling, releasePoint, target, tapInterval);
+//					int tapInterval = bs.getTapTime(this.Scene);
+					target.setT_tap(tp.getTapTime(this.Scene.Sling, releasePoint, target.getXY(), target.getT_tap()));
 
 					
 					//Segundo CLick en punto exacto
@@ -334,12 +361,13 @@ public class ClientNaiveAgent implements Runnable {
 					double scale_diff = Math.pow((this.Scene.Sling.width - _sling.width),2) +  Math.pow((this.Scene.Sling.height - _sling.height),2);
 					if(scale_diff < 25)
 					{
-						int dx = (int) releasePoint.getX() - refPoint.x;
-						int dy = (int) releasePoint.getY() - refPoint.y;
-						if(dx < 0)
+						target.setDx( (int) releasePoint.getX() - refPoint.x);
+						target.setDy((int) releasePoint.getY() - refPoint.y);
+						if(target.getDx() < 0)
 						{
 							long timer = System.currentTimeMillis();
-							ar.shoot(refPoint.x, refPoint.y, dx, dy, 0, tapTime, false);
+//							ar.shoot(refPoint.x, refPoint.y, dx, dy, 0, tapTime, false);
+							ar.shoot(refPoint.x, refPoint.y, target.getDx(), target.getDy(), target.getT_shot(), target.getT_tap(), false);
 							tori.utils.Logger.Print("It takes " + (System.currentTimeMillis() - timer) + " ms to take a shot");
 							System.out.println("It takes " + (System.currentTimeMillis() - timer) + " ms to take a shot");
 							state = ar.checkState();
@@ -410,12 +438,11 @@ public class ClientNaiveAgent implements Runnable {
 		//		
 		//		System.out.println(this.Scene.toString());
 		new SceneClassifier().Identify(Scene, vision, ar);
-
+		
+			
 	}
 
-	private double distance(Point p1, Point p2) {
-		return Math.sqrt((double) ((p1.x - p2.x) * (p1.x - p2.x) + (p1.y - p2.y)* (p1.y - p2.y)));
-	}
+	
 
 	public static void main(String args[]) {
 

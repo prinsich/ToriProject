@@ -89,6 +89,7 @@ public class SceneClassifier {
 	private void ClassifyBuildingsAndPigs(SceneState Scene, List<Building> buildings) {
 		List<ABObject> bloques = new LinkedList<ABObject>();
 		bloques.addAll(Scene.Blocks);
+		bloques.addAll(Scene.Hills);
 
 
 		//List<ABObject> construciones = new LinkedList<ABObject>();
@@ -104,8 +105,15 @@ public class SceneClassifier {
 		for (ABObject p : Scene.Pigs) {
 			boolean PigsObstructed = false;
 			for(ABObject bloque : bloques){
+//				if(tp.trajectoriaObstruida(	Scene.Sling, 
+//						tp.estimateLaunchPoint(Scene.Sling, p.getCenter()), 
+//						p.getCenter(), 
+//						bloque)){
+//					PigsObstructed = true;
+//					break;
+//				}
 				if(tp.trajectoriaObstruida(	Scene.Sling, 
-						tp.estimateLaunchPoint(Scene.Sling, p.getCenter()), 
+						tp.estimateLaunchPoint(Scene.Sling, p.getCenter()).get(0), 
 						p.getCenter(), 
 						bloque)){
 					PigsObstructed = true;
@@ -132,6 +140,7 @@ public class SceneClassifier {
 					havePig = true;
 					// Actualizo el SceneState con los chanchos que estan dentro de una construccion.
 					Scene.PigsInBuildings.add(Scene.ObstructedPigs.get(j));
+					buildings.get(i).pigs.add(Scene.ObstructedPigs.get(j));
 					Scene.ObstructedPigs.remove(j);
 					j--;
 				} 
