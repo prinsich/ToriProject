@@ -3,6 +3,7 @@
  */
 package tori.heuristics;
 
+import java.awt.Point;
 import java.awt.Rectangle;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -114,13 +115,14 @@ public class SceneClassifier {
 //					PigsObstructed = true;
 //					break;
 //				}
-				if(tp.trajectoriaObstruida(	Scene.Sling, 
-						tp.estimateLaunchPoint(Scene.Sling, p.getCenter()).get(0), 
-						p.getCenter(), 
-						bloque)){
-					PigsObstructed = true;
-					break;
-				} 
+				ArrayList<Point> arrayLaunchPoint = tp.estimateLaunchPoint(Scene.Sling,p.getCenter());
+				if(arrayLaunchPoint.size() > 0){
+					Point launchPoint = arrayLaunchPoint.get(0);
+					if(tp.trajectoriaObstruida(Scene.Sling, launchPoint, p.getCenter(), bloque)){
+						PigsObstructed = true;
+						break;
+					}
+				}
 			}
 
 			if(PigsObstructed){
