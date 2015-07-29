@@ -132,9 +132,9 @@ public class ActionRobot {
 		ss.shoot(proxy, csc);
 		System.out.println("Shooting Completed");
 		System.out
-				.println("wait 15 seconds to ensure all objects in the scene static");
+				.println("wait 5 seconds to ensure all objects in the scene static");
 		try {
-			Thread.sleep(15000);
+			Thread.sleep(5000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

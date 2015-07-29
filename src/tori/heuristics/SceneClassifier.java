@@ -21,6 +21,7 @@ import ab.demo.other.ClientActionRobotJava;
 import ab.planner.TrajectoryPlanner;
 import ab.vision.ABObject;
 import ab.vision.ABShape;
+import ab.vision.ABType;
 import ab.vision.Vision;
 
 /**
@@ -34,7 +35,9 @@ public class SceneClassifier {
 	}
 
 	public void Identify(SceneState Scene, Vision vision, ClientActionRobotJava ar){
-		Scene.Sling = vision.findSlingshotMBR(); // Sling
+		Scene.Sling = vision.findSlingshotRealShape(); // Sling
+		if(Scene.Sling ==  null)
+			Scene.Sling = vision.findSlingshotMBR(); // Sling
 
 		List<ABObject> temp = vision.findPigsRealShape() ;
 		Scene.Pigs = (temp != null) ? temp : new LinkedList<ABObject>(); // Pigs
@@ -65,7 +68,7 @@ public class SceneClassifier {
 		// TODO: Ver en que clase agregar esto....
 		Scene.CircularBlocks.clear();
 		for (ABObject b : Scene.Blocks) {
-			if (b.shape == ABShape.Circle) {
+			if (b.shape == ABShape.Circle && b.type != ABType.Ice) {
 				Scene.CircularBlocks.add(b);
 			}
 		}
@@ -85,7 +88,7 @@ public class SceneClassifier {
 
 
 
-		tori.utils.Logger.Print(Scene.toString());
+		//tori.utils.Logger.Print(Scene.toString());
 		System.out.println(Scene.toString());
 	}
 
@@ -172,7 +175,7 @@ public class SceneClassifier {
 		List<ABObject> tobevisited= new ArrayList<ABObject>(objs);
 		List<Building> boundingboxes = new ArrayList<Building> ();
 
-		tori.utils.Logger.Print("##### DATOS DE LAS CONSTRUCCIONES #####");
+		//tori.utils.Logger.Print("##### DATOS DE LAS CONSTRUCCIONES #####");
 		System.out.println("##### DATOS DE LAS CONSTRUCCIONES #####");
 		while(tobevisited.size() != 0){
 			Building b = FindBuilding(tobevisited);
@@ -180,7 +183,7 @@ public class SceneClassifier {
 				boundingboxes.add(b);
 
 		}
-		tori.utils.Logger.Print("\nSE HAN ENCONTRADO " + boundingboxes.size() + " CONSRUCCIONES.\n");
+		//tori.utils.Logger.Print("\nSE HAN ENCONTRADO " + boundingboxes.size() + " CONSRUCCIONES.\n");
 		System.out.println("\nSE HAN ENCONTRADO " + boundingboxes.size() + " CONSRUCCIONES.\n");
 		return boundingboxes;
 	}
@@ -239,7 +242,7 @@ public class SceneClassifier {
 			}
 
 		}
-		tori.utils.Logger.Print(result.toString());
+		//tori.utils.Logger.Print(result.toString());
 		System.out.println(result.toString());
 		return result;
 	}

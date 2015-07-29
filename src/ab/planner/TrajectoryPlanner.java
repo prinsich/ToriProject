@@ -114,7 +114,7 @@ public class TrajectoryPlanner {
 
 		// adjust the scale and angle change
 		adjustScale(Math.sqrt(ux*ux + uy*uy), theta);
-		tori.utils.Logger.Print("\nscale factor changed to: " + _scaleFactor);
+		//tori.utils.Logger.Print("\nscale factor changed to: " + _scaleFactor);
 		System.out.println("\nscale factor changed to: " + _scaleFactor);
 		_trajSet = false;
 	}
@@ -510,7 +510,7 @@ public class TrajectoryPlanner {
 				TargetSobreObjeto = target.y < object.y,
 				targetDebajoObjeto = (target.y > object.y + object.height);
 				if(object.type == ABType.Hill && object.contains(target)){
-					System.out.println("----------------------------- Hay un HILL en los bloques!!!!!!!!!!!!!!!!!!!!");
+					//System.out.println("----------------------------- Hay un HILL en los bloques!!!!!!!!!!!!!!!!!!!!");
 					return false;
 				}
 				/*

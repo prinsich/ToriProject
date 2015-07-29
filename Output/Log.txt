@@ -4620,3 +4620,11 @@ SE HAN ENCONTRADO 0 CONSRUCCIONES.
 Target Point: java.awt.Point[x=510,y=317]
 Release Point: java.awt.Point[x=-345,y=489]
 Release Angle: 17.46604546602565
+miércoles 29 de julio de 2015 14:46:12
+Connected to 127.0.0.1 in port 2004
+miércoles 29 de julio de 2015 14:50:29
+Connected to 127.0.0.1 in port 2004
+miércoles 29 de julio de 2015 14:53:37
+Connected to 127.0.0.1 in port 2004
+##### DATOS DE LOS CHANCHOS #####
+chancho: Diametro:10.0  Posicion: ( 538, 288)

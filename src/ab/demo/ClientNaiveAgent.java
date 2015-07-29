@@ -36,7 +36,7 @@ public class ClientNaiveAgent implements Runnable {
 
 	//Wrapper of the communicating messages
 	private ClientActionRobotJava ar;
-	public byte currentLevel = -1; // TODO: UNO MENOS DEL NIVEL QUE QUEREMOS
+	public byte currentLevel = 0; // TODO: UNO MENOS DEL NIVEL QUE QUEREMOS
 	public int failedCounter = 0;
 	public int[] solved;
 	TrajectoryPlanner tp; 
@@ -52,7 +52,6 @@ public class ClientNaiveAgent implements Runnable {
 		tp = new TrajectoryPlanner();
 		randomGenerator = new Random();
 		this.Scene = new SceneState();
-
 	}
 	/**
 	 * Constructor with a specified IP
@@ -64,6 +63,7 @@ public class ClientNaiveAgent implements Runnable {
 		this.Scene = new SceneState();
 
 	}
+	
 	public ClientNaiveAgent(String ip, int id)
 	{
 		ar = new ClientActionRobotJava(ip);
@@ -72,6 +72,7 @@ public class ClientNaiveAgent implements Runnable {
 		this.Scene = new SceneState();
 		this.id = id;
 	}
+	
 	public int getNextLevel()
 	{
 		int level = 0;
@@ -138,7 +139,7 @@ public class ClientNaiveAgent implements Runnable {
 
 	public void run() {	
 		
-		Logger.ScoreFile = "levelsScores - " + new SimpleDateFormat("MM-dd HH-mm-ss").format(new Date()) + ".txt";
+		//Logger.ScoreFile = "levelsScores - " + new SimpleDateFormat("MM-dd HH-mm-ss").format(new Date()) + ".txt";
 		
 		byte[] info = ar.configure(ClientActionRobot.intToByteArray(id));
 		solved = new int[info[2]];
@@ -146,7 +147,7 @@ public class ClientNaiveAgent implements Runnable {
 		
 		//load the initial level (default 1)
 		//Check my score
-		//checkMyScore();
+		checkMyScore();
 
 		currentLevel = (byte)getNextLevel(); 
 		ar.loadLevel(currentLevel);
@@ -155,14 +156,14 @@ public class ClientNaiveAgent implements Runnable {
 			
 			state = solve(bs);
 
-			tori.utils.Logger.Print("\n");
+			//tori.utils.Logger.Print("\n");
 			System.out.println();
 			//If the level is solved , go to the next level
 			if (state == GameState.WON) {
 
-				tori.utils.Logger.Print("###########################################");
-				tori.utils.Logger.Print("=> LOADING THE LEVEL " + (currentLevel + 1) );
-				tori.utils.Logger.Print("###########################################");
+				//tori.utils.Logger.Print("###########################################");
+				//tori.utils.Logger.Print("=> LOADING THE LEVEL " + (currentLevel + 1) );
+				//tori.utils.Logger.Print("###########################################");
 				
 				System.out.println("###########################################");
 				System.out.println("=> LOADING THE LEVEL " + (currentLevel + 1) );
@@ -171,9 +172,13 @@ public class ClientNaiveAgent implements Runnable {
 				System.out.println();
 				
 				//Guardo el log de niveles.
-				Logger.Print(this.getScoreByStage(currentLevel-1)+"", Logger.ScoreFile);
+				//Logger.Print(this.getScoreByStage(currentLevel-1)+"", Logger.ScoreFile);
 				
 				currentLevel = (byte)getNextLevel(); 
+				
+				if(currentLevel == 21)
+					break;
+				
 				ar.loadLevel(currentLevel);
 				//GlobalBestScore();
 				
@@ -188,21 +193,21 @@ public class ClientNaiveAgent implements Runnable {
 				//If lost, then restart the level
 				if (state == GameState.LOST) {
 					failedCounter++;
-					if(failedCounter > 3)
+					
+					if(failedCounter > 1)
 					{
 						failedCounter = 0;
-						currentLevel = (byte)getNextLevel(); 
+						currentLevel = (byte)getNextLevel();
 						ar.loadLevel(currentLevel);
-
 						//ar.loadLevel((byte)9);
 					}
 					else
 					{	
-						tori.utils.Logger.Print("###########################################");
-						tori.utils.Logger.Print("=> RESTART THE LEVEL " + (currentLevel + 1) );
-						tori.utils.Logger.Print("###########################################");
+						//tori.utils.Logger.Print("###########################################");
+						//tori.utils.Logger.Print("=> RESTART THE LEVEL " + (currentLevel + 1) );
+						//tori.utils.Logger.Print("###########################################");
 						
-						Logger.Print(" - Restart.", Logger.ScoreFile);
+						//Logger.Print(" - Restart.", Logger.ScoreFile);
 						
 						System.out.println("###########################################");
 						System.out.println("=> RESTART THE LEVEL " + (currentLevel + 1) );
@@ -210,6 +215,7 @@ public class ClientNaiveAgent implements Runnable {
 						bs.setCircularFirstShoot(true);
 						ar.restartLevel();
 					}
+					
 
 				} else 
 					if (state == GameState.LEVEL_SELECTION) {
@@ -251,7 +257,7 @@ public class ClientNaiveAgent implements Runnable {
 		new SceneClassifier().Identify(Scene, vision, ar);
 		if(Scene.firstShot){
 			String result ="\nNivel: " + (this.currentLevel);
-			Logger.Print(result, Logger.ScoreFile);
+			//Logger.Print(result, Logger.ScoreFile);
 		}
 		//this.percibirElementosDeLaEscena(vision);
 
@@ -290,12 +296,12 @@ public class ClientNaiveAgent implements Runnable {
 				//deberia de considerarse q el target puede llegar a ser una estructura o punto arbitrario			
 
 				//TODO SELECION DE PUNTO A DONDE DISPARA
-				tori.utils.Logger.Print("##### PREPARANDO DISPARO #####");
+				//tori.utils.Logger.Print("##### PREPARANDO DISPARO #####");
 				System.out.println("##### PREPARANDO DISPARO #####");
 				
 //				Point target = bs.getTarget(this.Scene);
 				Shot target = bs.getBestTarget(this.Scene);
-				tori.utils.Logger.Print("Target Point: " + target.getXY().toString());
+				//tori.utils.Logger.Print("Target Point: " + target.getXY().toString());
 				System.out.println("Target Point: " + target.getXY().toString());
 				highShoot = bs.isHighShoot();
 				//CircularFirstShoot = bs.isCircularFirstShoot();
@@ -332,8 +338,8 @@ public class ClientNaiveAgent implements Runnable {
 //				int tapTime = 0;
 				if (releasePoint != null) {
 					double releaseAngle = tp.getReleaseAngle(this.Scene.Sling, releasePoint);
-					tori.utils.Logger.Print("Release Point: " + releasePoint);
-					tori.utils.Logger.Print("Release Angle: " + Math.toDegrees(releaseAngle));
+					//tori.utils.Logger.Print("Release Point: " + releasePoint);
+					//tori.utils.Logger.Print("Release Angle: " + Math.toDegrees(releaseAngle));
 					System.out.println("Release Point: " + releasePoint);
 					System.out.println("Release Angle: " + Math.toDegrees(releaseAngle));
 
@@ -355,7 +361,10 @@ public class ClientNaiveAgent implements Runnable {
 				ar.fullyZoomOut();
 				screenshot = ar.doScreenShot();
 				vision = new Vision(screenshot);
-				Rectangle _sling = vision.findSlingshotMBR();
+				Rectangle _sling = vision.findSlingshotRealShape();
+				if(_sling == null)
+					_sling = vision.findSlingshotMBR();
+				
 				if(_sling != null)
 				{
 					double scale_diff = Math.pow((this.Scene.Sling.width - _sling.width),2) +  Math.pow((this.Scene.Sling.height - _sling.height),2);
@@ -368,7 +377,7 @@ public class ClientNaiveAgent implements Runnable {
 							long timer = System.currentTimeMillis();
 //							ar.shoot(refPoint.x, refPoint.y, dx, dy, 0, tapTime, false);
 							ar.shoot(refPoint.x, refPoint.y, target.getDx(), target.getDy(), target.getT_shot(), target.getT_tap(), false);
-							tori.utils.Logger.Print("It takes " + (System.currentTimeMillis() - timer) + " ms to take a shot");
+							//tori.utils.Logger.Print("It takes " + (System.currentTimeMillis() - timer) + " ms to take a shot");
 							System.out.println("It takes " + (System.currentTimeMillis() - timer) + " ms to take a shot");
 							state = ar.checkState();
 							if ( state == GameState.PLAYING )
@@ -382,12 +391,12 @@ public class ClientNaiveAgent implements Runnable {
 						}
 					}
 					else {
-						tori.utils.Logger.Print("Scale is changed, can not execute the shot, will re-segement the image");
+						//tori.utils.Logger.Print("Scale is changed, can not execute the shot, will re-segement the image");
 						System.out.println("Scale is changed, can not execute the shot, will re-segement the image");
 					}
 				}
 				else {
-					tori.utils.Logger.Print("no sling detected, can not execute the shot, will re-segement the image");
+					//tori.utils.Logger.Print("no sling detected, can not execute the shot, will re-segement the image");
 					System.out.println("no sling detected, can not execute the shot, will re-segement the image");
 				}
 			}

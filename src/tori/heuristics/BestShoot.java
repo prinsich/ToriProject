@@ -96,7 +96,7 @@ public class BestShoot {
 			return null;
 		}
 		
-		tori.utils.Logger.Print(objStr);
+		//tori.utils.Logger.Print(objStr);
 		System.out.println(objStr);
 		
 		return targetObj;
@@ -172,7 +172,7 @@ public class BestShoot {
 			return null;
 		}
 		
-		tori.utils.Logger.Print(objStr);
+		//tori.utils.Logger.Print(objStr);
 		System.out.println(objStr);
 		
 		//Compare if the target point is the same that the las one.
