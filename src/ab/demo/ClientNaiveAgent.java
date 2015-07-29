@@ -176,9 +176,9 @@ public class ClientNaiveAgent implements Runnable {
 				
 				currentLevel = (byte)getNextLevel(); 
 				
-				if(currentLevel == 21)
+				/*if(currentLevel == 21)
 					break;
-				
+				*/
 				ar.loadLevel(currentLevel);
 				//GlobalBestScore();
 				
