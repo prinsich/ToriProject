@@ -63,12 +63,12 @@ public class SceneClassifier {
 		List<Building> buildings = FindBuildings(Scene.Blocks);
 		Scene.Buildings = new LinkedList<Building>();
 		Scene.FreeBuildings = new LinkedList<Building>();
-		this.ClassifyBuildingsAndPigs(Scene, buildings);
+		this.ClassifyBuildingsAndPigs(Scene, buildings, vision);
 
 		// TODO: Ver en que clase agregar esto....
 		Scene.CircularBlocks.clear();
 		for (ABObject b : Scene.Blocks) {
-			if (b.shape == ABShape.Circle && b.type != ABType.Ice) {
+			if (b.shape == ABShape.Circle) {
 				Scene.CircularBlocks.add(b);
 			}
 		}
@@ -92,7 +92,7 @@ public class SceneClassifier {
 		System.out.println(Scene.toString());
 	}
 
-	private void ClassifyBuildingsAndPigs(SceneState Scene, List<Building> buildings) {
+	private void ClassifyBuildingsAndPigs(SceneState Scene, List<Building> buildings, Vision vision) {
 		List<ABObject> bloques = new LinkedList<ABObject>();
 		bloques.addAll(Scene.Blocks);
 		bloques.addAll(Scene.Hills);
@@ -105,8 +105,7 @@ public class SceneClassifier {
 		Scene.ObstructedPigs = new LinkedList<ABObject>();
 		Scene.FreePigs = new LinkedList<ABObject>();
 		Scene.PigsInBuildings = new LinkedList<ABObject>();
-
-
+		
 		TrajectoryPlanner tp = new TrajectoryPlanner();
 		for (ABObject p : Scene.Pigs) {
 			boolean PigsObstructed = false;

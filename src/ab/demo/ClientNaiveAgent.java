@@ -38,6 +38,7 @@ public class ClientNaiveAgent implements Runnable {
 	private ClientActionRobotJava ar;
 	public byte currentLevel = 0; // TODO: UNO MENOS DEL NIVEL QUE QUEREMOS
 	public int failedCounter = 0;
+	private int releasePointcounter = 0;
 	public int[] solved;
 	TrajectoryPlanner tp; 
 	private int id = 18077;
@@ -168,7 +169,7 @@ public class ClientNaiveAgent implements Runnable {
 				System.out.println("###########################################");
 				System.out.println("=> LOADING THE LEVEL " + (currentLevel + 1) );
 				System.out.println("###########################################");
-				//checkMyScore();
+				checkMyScore();
 				System.out.println();
 				
 				//Guardo el log de niveles.
@@ -176,9 +177,9 @@ public class ClientNaiveAgent implements Runnable {
 				
 				currentLevel = (byte)getNextLevel(); 
 				
-				/*if(currentLevel == 21)
+				if(currentLevel == 22)
 					break;
-				*/
+				
 				ar.loadLevel(currentLevel);
 				//GlobalBestScore();
 				
@@ -254,7 +255,11 @@ public class ClientNaiveAgent implements Runnable {
 		// process image
 		Vision vision = new Vision(screenshot);
 
-		new SceneClassifier().Identify(Scene, vision, ar);
+		try {
+			new SceneClassifier().Identify(Scene, vision, ar);
+		} catch (Exception e) {
+			return ar.checkState();
+		}
 		if(Scene.firstShot){
 			String result ="\nNivel: " + (this.currentLevel);
 			//Logger.Print(result, Logger.ScoreFile);
@@ -316,7 +321,7 @@ public class ClientNaiveAgent implements Runnable {
 //				}
 
 				this.Scene.prevTarget = new Point(target.getX(), target.getY());
-
+				System.out.println(this.Scene.Sling);
 				// estimate the trajectory
 				ArrayList<Point> pts = tp.estimateLaunchPoint(this.Scene.Sling, this.Scene.prevTarget);
 
@@ -337,6 +342,7 @@ public class ClientNaiveAgent implements Runnable {
 				// Get the release point from the trajectory prediction module
 //				int tapTime = 0;
 				if (releasePoint != null) {
+					releasePointcounter = 0;
 					double releaseAngle = tp.getReleaseAngle(this.Scene.Sling, releasePoint);
 					//tori.utils.Logger.Print("Release Point: " + releasePoint);
 					//tori.utils.Logger.Print("Release Angle: " + Math.toDegrees(releaseAngle));
@@ -353,7 +359,14 @@ public class ClientNaiveAgent implements Runnable {
 
 				} else {
 					System.err.println("No Release Point Found");
-					return ar.checkState();
+					if(releasePointcounter < 3) {
+						releasePointcounter++;
+						return ar.checkState();
+					}
+					else {
+						releasePointcounter = 0;
+						return state.LOST;
+					}
 				}
 
 
